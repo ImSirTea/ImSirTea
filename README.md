@@ -1,3 +1,3 @@
 Frontend Developer
 
-Vue, React, Typescript, and SCSS.
+Chess Amateur, Cat Fanatic
